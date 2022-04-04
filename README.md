@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asadkhan-01
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ASP.Net
+- 🌱 I’m currently learning Java Development tools and techs.
 - 💞️ I’m looking for new Development Roles(Preferebly Backend)
 - 📫 Reach me out on asadkhan033@gmail.com
 
